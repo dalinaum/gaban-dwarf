@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 39
+.settings
+bin
+nbproject
+build.xml
+dist
+
+K 13
+svn:mergeinfo
+V 23
+/branches/ltudemo:28-29
+END

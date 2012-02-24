@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/30/trunk/src/se/ltu/android/demo
+END
+DemoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30/trunk/src/se/ltu/android/demo/DemoActivity.java
+END
+GLSurfaceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/24/trunk/src/se/ltu/android/demo/GLSurfaceView.java
+END
+DemoGameThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/30/trunk/src/se/ltu/android/demo/DemoGameThread.java
+END
+DemoGLSurfaceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/30/trunk/src/se/ltu/android/demo/DemoGLSurfaceView.java
+END
+DemoRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/30/trunk/src/se/ltu/android/demo/DemoRenderer.java
+END

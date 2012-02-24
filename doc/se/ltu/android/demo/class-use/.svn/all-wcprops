@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/27/trunk/doc/se/ltu/android/demo/class-use
+END
+R.layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/25/trunk/doc/se/ltu/android/demo/class-use/R.layout.html
+END
+DemoActivity.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/27/trunk/doc/se/ltu/android/demo/class-use/DemoActivity.html
+END
+R.drawable.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/25/trunk/doc/se/ltu/android/demo/class-use/R.drawable.html
+END
+R.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/25/trunk/doc/se/ltu/android/demo/class-use/R.html
+END
+R.string.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/25/trunk/doc/se/ltu/android/demo/class-use/R.string.html
+END
+GLSurfaceView.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/27/trunk/doc/se/ltu/android/demo/class-use/GLSurfaceView.html
+END
+DemoGameThread.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/27/trunk/doc/se/ltu/android/demo/class-use/DemoGameThread.html
+END
+GLSurfaceView.GLWrapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/27/trunk/doc/se/ltu/android/demo/class-use/GLSurfaceView.GLWrapper.html
+END
+R.raw.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/25/trunk/doc/se/ltu/android/demo/class-use/R.raw.html
+END
+R.attr.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/25/trunk/doc/se/ltu/android/demo/class-use/R.attr.html
+END
+DemoRenderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/27/trunk/doc/se/ltu/android/demo/class-use/DemoRenderer.html
+END
+DemoGLSurfaceView.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/27/trunk/doc/se/ltu/android/demo/class-use/DemoGLSurfaceView.html
+END
+GLSurfaceView.Renderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/27/trunk/doc/se/ltu/android/demo/class-use/GLSurfaceView.Renderer.html
+END

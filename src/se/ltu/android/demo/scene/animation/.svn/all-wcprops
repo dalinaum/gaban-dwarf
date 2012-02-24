@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/24/trunk/src/se/ltu/android/demo/scene/animation
+END
+KeyFrameAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/24/trunk/src/se/ltu/android/demo/scene/animation/KeyFrameAnimation.java
+END
+KeyFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/24/trunk/src/se/ltu/android/demo/scene/animation/KeyFrame.java
+END
+AnimationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/24/trunk/src/se/ltu/android/demo/scene/animation/AnimationListener.java
+END
